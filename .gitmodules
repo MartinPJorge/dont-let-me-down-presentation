@@ -1,0 +1,3 @@
+[submodule "beamer-upm"]
+	path = beamer-upm
+	url = git@github.com:MartinPJorge/beamer-upm.git
